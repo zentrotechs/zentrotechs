@@ -70,7 +70,7 @@ At **Zentro Technologies**, we push the boundaries of software engineering, web 
 ## 📈 GitHub Organization Overview
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zentrotechs&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=8B5CF6&text_color=E2E8F0" alt="Zentro Techs Stats" width="48%" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zentrotechs&theme=dark&background=0D1117&stroke=00C6FF&alarm=8B5CF6&ring=8B5CF6&fire=00C6FF&currStreakNum=E2E8F0" alt="Zentro Techs Streak" width="48%" />
 </div>
 
