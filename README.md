@@ -1,8 +1,5 @@
 <div align="center">
 
-  <!-- Header Branding Image -->
-  <img src="Zentro Technologies.png" alt="Zentro Technologies Logo" width="100%" style="max-width:700px; border-radius: 12px;"/>
-
   <br/><br/>
 
   # 🚀 Zentro Technologies
